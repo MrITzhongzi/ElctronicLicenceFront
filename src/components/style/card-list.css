@@ -1,0 +1,34 @@
+
+.card-panel > div:nth-child(1) {
+  color: #000!important;
+}
+
+.card-panel > div:nth-child(2) {
+  max-height: 42vh;
+  overflow: scroll;
+}
+
+
+.center-box {
+  text-align: center;
+}
+
+.get-electronic-jsz {
+  width: 50vw;
+  height: 36px;
+  color: white;
+  font-size: 18px;
+  background: #3a76ce;
+  margin-top: 20px;
+}
+
+.get-electronic-jsz:focus {
+  background: #3a76ce;
+  color: white;
+}
+
+.explain-text {
+  margin-top: 5px;
+  font-size: 12px;
+}
+

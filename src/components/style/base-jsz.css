@@ -1,0 +1,77 @@
+.jsz-base-img {
+  width: 90%;
+  margin: 3vh 5% 0;
+  border-radius: 10px;
+}
+
+.jsz-base-info table {
+  text-align: center;
+}
+
+.jsz-base-info table th {
+  width: 33%;
+  text-align: center;
+  background: white;
+  border: none;
+  padding-bottom: 0px;
+  font-weight: bold;
+}
+
+.jsz-base-info table td {
+  border: none;
+}
+
+.jsz-base-info table th span {
+  display: block;
+}
+
+.jsz-base-btn {
+  width: 60%;
+  height: 45px;
+  line-height: 45px!important;
+  display: block;
+  background: #3a76ce;
+  color: white;
+  display: block;
+  margin: 15px auto;
+  border-radius: 6px!important;
+}
+
+.jsz-base-btn:focus {
+  background: #3a76ce;
+  color: white;
+  border-radius: 6px!important;
+}
+
+.loading-jsz {
+  text-align: center;
+  font-size: 18px;
+  padding-top: 10vh;
+}
+.loading-jsz .loading-icon {
+  font-size: 30px;
+  color: #3a76ce;
+}
+
+.loading-jsz .loading-text {
+  margin-top: 15px;
+}
+
+.load-return {
+  width: 40%;
+  background: #3a76ce;
+  color: white;
+  display: block;
+  margin: 15px auto;
+  border-radius: 6px!important;
+}
+
+.load-return:focus {
+  background: #3a76ce;
+  color: white;
+  border-radius: 6px!important;
+}
+
+
+
+

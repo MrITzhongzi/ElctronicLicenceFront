@@ -1,0 +1,32 @@
+
+.one-car-info {
+  display: flex;
+  height: 88px;
+  line-height: 88px;
+}
+
+.show-car-icon {
+  flex-grow: 1;
+  font-size: 40px;
+  color: #3f7af2;
+  text-align: center;
+}
+
+.show-car-number {
+  flex-grow: 3;
+  font-size: 18px;
+  color: #000000;
+
+}
+
+.look-up {
+  flex-grow: 1;
+  font-size: 16px;
+  display: flex;
+}
+
+.look-up i {
+  line-height: 88px;
+  vertical-align: middle;
+  color: #000;
+}

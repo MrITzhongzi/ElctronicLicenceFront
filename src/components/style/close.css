@@ -1,0 +1,11 @@
+
+.close-sty {
+  width: 100%;
+  height: 60px;
+  background: #3a76ce;
+  color: white;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}

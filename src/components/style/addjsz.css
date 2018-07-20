@@ -1,0 +1,52 @@
+
+
+.add-jsz-info {
+  padding-top: 20px;
+}
+.write-jsz-num > p:nth-child(1) {
+  padding-left: 10px;
+}
+
+.write-number {
+  display: flex;
+  height:  40px;
+  line-height: 40px;
+}
+
+.write-number > div:nth-child(1) {
+  min-width: 50px;
+  text-align: right;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.write-number > div:nth-child(2) {
+  margin: 0 10px;
+}
+
+.choose-car-type {
+  margin-top: 30px;
+}
+
+.choose-car-type p:nth-child(1) {
+  padding-left: 10px;
+}
+
+.add-jsz-submit {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.add-jsz-submit button {
+
+  width: 40vw;
+  background: #3a76ce;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+.add-jsz-submit button:focus {
+  background: #3a76ce;
+  color: white;
+}

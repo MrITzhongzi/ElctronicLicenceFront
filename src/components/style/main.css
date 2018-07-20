@@ -1,0 +1,15 @@
+
+.load-animal {
+  width: 30vw;
+  height: 30vw;
+  padding-top: 10vw;
+  color: white;
+  position: absolute;
+  left: 35vw;
+  top: 30vh;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.load-animal i {
+  background: white;
+}

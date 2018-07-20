@@ -1,0 +1,27 @@
+
+
+.add-car-info {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.show-car-list {
+  max-height: 80vh;
+  overflow: scroll;
+}
+
+.add-car-info button {
+  width: 40vw;
+  color: white;
+  background: #3a76ce;
+  font-size: 16px;
+}
+
+.add-car-info button:focus {
+  background: #3a76ce;
+  color: white;
+}
+
+.add-car-info p:nth-child(2) {
+  font-size: 12px;
+}

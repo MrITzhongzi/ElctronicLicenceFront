@@ -1,0 +1,56 @@
+
+.car-background {
+  width: 90vw;
+  height: 33vh;
+  background: url("../../images/car.png") center / cover no-repeat;
+  margin-left: 5vw;
+  margin-top: 5vh;
+}
+
+.electrinic-jsz {
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 30px;
+  color: #474747;
+  text-align: center;
+
+}
+
+.jsz-number {
+  display: flex;
+  font-size: 16px;
+  color: #474747;
+}
+
+.jsz-number > div:nth-child(1) {
+  flex-grow: 1;
+  text-align: right;
+}
+
+.jsz-number > div:nth-child(2) {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.center-box {
+  text-align: center;
+}
+
+.get-electronic-jsz {
+  width: 50vw;
+  height: 36px;
+  color: white;
+  font-size: 18px;
+  background: #3a76ce;
+  margin-top: 20px;
+}
+
+.get-electronic-jsz:focus {
+  background: #3a76ce;
+  color: white;
+}
+
+.explain-text {
+  margin-top: 5px;
+  font-size: 12px;
+}

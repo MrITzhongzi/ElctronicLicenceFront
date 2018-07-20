@@ -1,0 +1,52 @@
+
+.illegal-item {
+  margin: 10px;
+  border: 1px solid #999;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 3px 3px 3px #ccc;
+}
+
+.illegal-title {
+  height: 35px;
+  line-height: 35px;
+  background: #5f9ffb;
+  padding-left: 10px;
+  color: white;
+}
+
+.illegal-content {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.ill-row {
+  display: flex;
+  margin-top: 5px;
+}
+
+.ill-row > div:nth-child(1) {
+  margin-right: 10px;
+}
+
+.bottom-row {
+  display: flex;
+}
+
+.bottom-row > div {
+  display: flex;
+}
+.bottom-row > div:nth-child(1) {
+  margin-right: 40px;
+}
+
+.bottom-row > div > div:nth-child(1) {
+  margin-right: 10px;
+}
+
+.makesure-pay {
+  text-align: right;
+  padding-right: 10px;
+  color: #02ae33;
+}
+
